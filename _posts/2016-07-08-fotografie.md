@@ -1,18 +1,18 @@
 ---
 description: >-
   Wir fotografieren selbst und im eigenen Fotostudio und können dabei auf eine
-  fundierte professionelle Ausbildung und ein Jahrzehnt Erfahrung zurückblicken.
-  Produkte und Portraits von Mitarbeitern nehmen wir digital mit
+  fundierte professionelle Ausbildung und ein Jahrzehnt Erfahrung
+  zurückblicken.  Produkte und Portraits von Mitarbeitern nehmen wir digital mit
   Kleinbildkameras (Canon) auf und optimieren die Aufnahmen mit Hilfe digitaler
   Bildbearbeitung. 
-dateModified: '2016-07-08T15:02:08.180Z'
-datePublished: '2016-07-08T15:02:09.845Z'
+dateModified: '2016-07-08T15:02:14.169Z'
+datePublished: '2016-07-08T15:02:21.924Z'
 title: Fotografie
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a9f296e-40dd-422b-9c9d-677f959287c9.jpg
-starred: false
 sourcePath: _posts/2016-07-08-fotografie.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

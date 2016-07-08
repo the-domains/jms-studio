@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[jms studio]]></title>
         <description><![CDATA[jms studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jms-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 14:38:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 14:44:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jms-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drucksachen]]></title>
+            <description><![CDATA[<article><h1>Drucksachen</h1><h2>Web-to-Print</h2><p>Die JMS arbeitet eng mit der Jung GmbH zusammen und unter einem Dach und kann so vom Erfahrungsschatz und den Handelsbeziehungen eines Unternehmens profitieren, das seit über 40 Jahren mit Computerpapieren und Druckerzeugnissen im Geschäft ist.Bei individualisierten Drucksachen beraten wir Sie gerne über das richtige Papier und Weiß, über Farben, Formate, Falzungen, Perforationen, Bindungen, Veredelungen, etc. Wir sagen Ihnen, wie hoch die Auflage sein sollte und verraten Ihnen, wie Sie beim Druck und der Produktion Kosten sparen können. Dabei legen wir großen Wert auf Qualität - bei jedem Arbeitsschritt und zu vernünftigen Preisen. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3384ed4-0407-487a-a3a8-3fc638616e4a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3384ed4-0407-487a-a3a8-3fc638616e4a.jpg</link>
+            <guid isPermaLink="false">77764fb5-d761-4bf3-ad05-5ce1634554c6</guid>
+            <pubDate>Fri, 08 Jul 2016 14:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grafikdesign]]></title>
             <description><![CDATA[<article><h1>Grafikdesign</h1><p>Sehgewohnheiten ändern sich, Konzepte überleben sich im Laufe der Jahre.Deshalb setzen wir gerne ein Thema neu und frisch ins Bild. Oder entwickeln ein Corporate Design weiter – im produktiven Zusammenspiel der verschiedensten Kommunikationsmittel und gut aufeinander abgestimmt.Beratung und Konzeption sowohl als Einzelauftrag als auch im ganzen Paket mit Druck, Produktion und Lieferung.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c11dd52280d4aacba65d78d8fb35eccc/croprotate.jpg?cropheight=4017&cropwidth=5315&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F907ee272-273c-4198-9759-b80dfc1cb259.jpg&x=0&y=0"></article>]]></description>

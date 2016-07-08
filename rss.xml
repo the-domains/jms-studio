@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jms studio]]></title>
+        <description><![CDATA[jms studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 14:38:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grafikdesign]]></title>
+            <description><![CDATA[<article><h1>Grafikdesign</h1><p>Sehgewohnheiten ändern sich, Konzepte überleben sich im Laufe der Jahre.Deshalb setzen wir gerne ein Thema neu und frisch ins Bild. Oder entwickeln ein Corporate Design weiter – im produktiven Zusammenspiel der verschiedensten Kommunikationsmittel und gut aufeinander abgestimmt.Beratung und Konzeption sowohl als Einzelauftrag als auch im ganzen Paket mit Druck, Produktion und Lieferung.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c11dd52280d4aacba65d78d8fb35eccc/croprotate.jpg?cropheight=4017&cropwidth=5315&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F907ee272-273c-4198-9759-b80dfc1cb259.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/907ee272-273c-4198-9759-b80dfc1cb259.jpg</link>
+            <guid isPermaLink="false">2743bb8f-aebd-481d-8ae0-e4848d181f3a</guid>
+            <pubDate>Fri, 08 Jul 2016 14:38:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

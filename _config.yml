@@ -1,0 +1,14 @@
+layout_spectrum: 0.9911569547839463
+typography_spectrum: 0.6040332159027457
+color:
+  brandStrength: 0.7382308752276003
+  lightness: 0.2766494983807206
+  saturation: 0.05557715333998203
+  rhythmicContrast: 0.04847315442748368
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: jms studio
